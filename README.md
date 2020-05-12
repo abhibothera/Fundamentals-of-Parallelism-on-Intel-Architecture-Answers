@@ -1,2 +1,2 @@
-# Fundamentals-of-Parallelism-on-Intel-Architecture-Answers
-It has the answers to the above Coursera course.
+# Fundamentals-of-Parallelism-on-Intel-Architecture
+*Fundamentals of Parallelism on Intel Architecture* offered by Intel on Coursera
